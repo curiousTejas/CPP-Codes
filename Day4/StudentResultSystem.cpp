@@ -95,6 +95,8 @@ public:
             cout<<"Science: "<<sci<<endl;
             cout<<"Social Science: "<<soc_sci<<endl;
         }
+        cout<<"Total: "<<total<<endl;
+        cout<<"Percentage: "<<percent<<"%"<<endl;
         if(percent>90)
         {
             cout<<"Congratulations! You've got an A! Keep it up\n!"<<endl;
@@ -105,11 +107,11 @@ public:
         }
         else if(percent>50)
         {
-            cout<<"You've got an C! Not bad!\n"<<endl;
+            cout<<"You've got a C! Not bad!\n"<<endl;
         }
         else if(percent>35)
         {
-            cout<<"You've got an D! Improve next time!\n"<<endl;
+            cout<<"You've got a D! Improve next time!\n"<<endl;
         }
         else
             cout<<"Unfortunately, you've failed this time. No worries, better luck next time!\n"<<endl;
