@@ -4,7 +4,7 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 
 ## Programs in this Repo
 (In the order of Day of commit)
-1. [Factorial](Day1-10/Day1/Factorial.cpp)
+1. [Factorial](Day1-10/Day1/factorial.cpp)
 2. [Number Names](Day1-10/Day2/NumberNames.cpp)
 3. [Array Search and Frequency](Day1-10/Day3/Array-Search-Frequency.cpp)
 4. [Student Result System](Day1-10/Day4/StudentResultSystem.cpp)
