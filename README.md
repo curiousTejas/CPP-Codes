@@ -25,6 +25,7 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 19. [To Mock a Sentence](Day11-20/Day19/AlternatingCaps.cpp) (inspired from the Dank Memer Bot on Discord)
 20. [Palindrome String](Day11-20/Day20/StringPalindrome.cpp)
 21. [Matrix Determinant](Day21-30/Day21/MatrixDeterminant.cpp)
+22. [Matrix Sum of Diagonal/Upper/Lower Triangle Elements](Day21-30/Day22/MoreOfMatrix.cpp)
 
 ## Want to Contribute?
 - **Fork** this repository
