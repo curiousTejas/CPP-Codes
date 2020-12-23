@@ -26,6 +26,7 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 20. [Palindrome String](Day11-20/Day20/StringPalindrome.cpp)
 21. [Matrix Determinant](Day21-30/Day21/MatrixDeterminant.cpp)
 22. [Matrix Sum of Diagonal/Upper/Lower Triangle Elements](Day21-30/Day22/MoreOfMatrix.cpp)
+23. [Armstrong Number](Day21-30/Day23/ArmstrongNumber.cpp)
 
 ## Want to Contribute?
 - **Fork** this repository
