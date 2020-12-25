@@ -28,6 +28,7 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 22. [Matrix Sum of Diagonal/Upper/Lower Triangle Elements](Day21-30/Day22/MoreOfMatrix.cpp)
 23. [Armstrong Number](Day21-30/Day23/ArmstrongNumber.cpp)
 24. [Words Vowels and Consonants Counter](Day21-30/Day24/WordCount.cpp)
+25. [Largest and Second Largest Element in an Array](Day21-30/Day25/LargestInArray.cpp)
 
 ## Want to Contribute?
 - **Fork** this repository
