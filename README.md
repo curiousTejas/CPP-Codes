@@ -31,6 +31,7 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 25. [Largest and Second Largest Element in an Array](Day21-30/Day25/LargestInArray.cpp)
 26. [Perfect Numbers upto N](Day21-30/Day26/PerfectNumber.cpp)
 27. [Palindrome Words Counter](Day21-30/Day27/PalindromeCounter.cpp)
+28. [Exploring the <vector> Header](Day21-30/Day28/Vectors.cpp)
 
 ## Want to Contribute?
 - **Fork** this repository
