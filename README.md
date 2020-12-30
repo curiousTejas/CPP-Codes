@@ -32,7 +32,8 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 26. [Perfect Numbers upto N](Day21-30/Day26/PerfectNumber.cpp)
 27. [Palindrome Words Counter](Day21-30/Day27/PalindromeCounter.cpp)
 28. [Exploring the Vector Header](Day21-30/Day28/Vectors.cpp)
-29. [Dealing with Vector Quantities](Day21-30/Day29/VectorQuantities.cpp)
+29. [Dealing with Vector Quantities](Day21-30/Day29/VectorQuantities.cpp) (Dot/Cross Product, Scalar/Vector Triple Product etc.)
+30. [Evil Number](Day21-30/Day30/EvilNumber.cpp)
 
 ## Want to Contribute?
 - **Fork** this repository
