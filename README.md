@@ -34,6 +34,18 @@ Hey there good people! So in the beginning of December, I decided to challenge m
 28. [Exploring the Vector Header](Day21-30/Day28/Vectors.cpp)
 29. [Dealing with Vector Quantities](Day21-30/Day29/VectorQuantities.cpp) (Dot/Cross Product, Scalar/Vector Triple Product etc.)
 30. [Evil Number](Day21-30/Day30/EvilNumber.cpp)
+31. [Tic-Tac-Toe Game](Day31/TicTacToe.cpp)
+
+## Final Thoughts
+This challenge has been such an amazing experience full of exploring new stuff and revising some basics too! Although consistency throughout was a struggle, this challenge did make me learn a lot.
+- I gained confidence with Open Source.
+- I explored stuff about C++ I never knew about!
+- I wrote long codes and short codes as well.
+- I revisited some basics to strengthen my fundamentals.
+- I became more organized with my daily schedule!
+- This seemed as a good practice for 100 Days of Code!
+
+This challenge was not difficult, but for beginners like me, it really is a nice practice for enhancing skills and strengthening fundamentals too!
 
 ## Want to Contribute?
 - **Fork** this repository
