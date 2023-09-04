@@ -1,4 +1,4 @@
-﻿# 31 Days of Code
+﻿# C++ Practice Codes
 ## Introduction
 Hey there good people! So in the beginning of December, I decided to challenge myself into coding for 31 Days straight, as a practice to improve my skills and also to revise some basics too. This repo consists of 31 Codes, all in C++, and are organized in different folders according to the day-number. The level of these codes ranges from Basic to Intermediate. I'm still in learning process and I wish to dive deep in the ocean of C++ and explore some more pearls!
 
